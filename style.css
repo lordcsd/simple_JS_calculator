@@ -49,6 +49,7 @@ input
 {
     height:50px;
     width:63px;
+margin-left:10px;
     background-color: rgb(87, 162, 87);
     text-align: center;
     border-radius:5px;
